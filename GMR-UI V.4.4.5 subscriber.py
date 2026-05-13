@@ -1,7 +1,6 @@
 # ============================================================
 # GMR UIN R1A
-# MQTT SUBSCRIBER with HiveMQ + Plotly Dash
-# FIXED VERSION
+# Update: 2026-05-13
 # ============================================================
 
 import json
