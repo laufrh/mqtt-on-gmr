@@ -199,7 +199,7 @@ app.layout = dbc.Container([
 
         dbc.Col(
             html.H3(
-                "GMR UIN R1A - MQTT Subscriber",
+                "GMR UIN R1A - Data Acquisition",
                 className="text-primary mb-0"
             ),
             width="auto"
@@ -226,7 +226,7 @@ app.layout = dbc.Container([
 
                 dbc.CardHeader(
                     html.H6(
-                        "HiveMQ Subscriber",
+                        "Subscriber",
                         className="mb-0"
                     )
                 ),
